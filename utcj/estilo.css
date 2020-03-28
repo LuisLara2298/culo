@@ -1,0 +1,17 @@
+header{
+    background: salmon;
+}
+.main{
+    background: blue;
+
+}
+.col1{
+    background: crimson;
+}
+.col2{
+    background: skyblue;
+}
+.largo{
+    width: 200px;
+    height: 100px;
+}
